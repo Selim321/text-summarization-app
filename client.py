@@ -18,7 +18,3 @@ else:
 
 
 
-# print(response.json()["summary"])
-
-
-
