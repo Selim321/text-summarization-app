@@ -15,3 +15,7 @@ A basic text summarization web app using Streamlit and FastAPI.
 3. Shows the summarized text.
 
 # How to use
+````
+$ git clone 
+
+````
