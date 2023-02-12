@@ -15,7 +15,20 @@ A basic text summarization web app using Streamlit and FastAPI.
 3. Shows the summarized text.
 
 # How to use
+## Clone this repo
 ````
-$ git clone 
-
+$ git clone https://github.com/Selim321/text-summarization-app.git
+````
+## Install the required packages
+````
+$ pip install requirements.txt
+````
+## Start the fastapi backend
+````
+$ uvicorn app:app --reload
+````
+  
+## Start the Streamlit client
+````
+$ stremlit run client.py
 ````
